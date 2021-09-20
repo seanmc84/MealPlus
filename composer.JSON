@@ -2,4 +2,7 @@
     "require": {
         "php-amqplib/php-amqplib": ">=3.0"
     }
+    sudo systemctl start rabbitmq-server
+    
+    sudo systemctl start mysql
 }
