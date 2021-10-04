@@ -5,4 +5,8 @@
     sudo systemctl start rabbitmq-server
     
     sudo systemctl start mysql
+    
+    sudo service apache2 start
+    
+    sudo service logmein-hamachi start
 }
